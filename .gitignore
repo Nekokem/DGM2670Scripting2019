@@ -57,7 +57,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.dll
 
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+New Unity Project/.idea/.idea.New Unity Project/.idea/
