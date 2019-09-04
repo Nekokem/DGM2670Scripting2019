@@ -16,6 +16,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/be/37707973/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/ad/f97a6e6c/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageControler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/ab/e9821339/Component.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -26,8 +27,9 @@
         <option value="$PROJECT_DIR$/Assets/float data.cs" />
         <option value="$PROJECT_DIR$/Assets/IfStatments.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageControler.cs" />
       </list>
     </option>
   </component>
@@ -80,7 +82,9 @@
       <workItem from="1566415854338" duration="2889000" />
       <workItem from="1566578648119" duration="2729000" />
       <workItem from="1566846640165" duration="656000" />
-      <workItem from="1567019342917" duration="1788000" />
+      <workItem from="1567019342917" duration="2222000" />
+      <workItem from="1567611646341" duration="18000" />
+      <workItem from="1567624389957" duration="4713000" />
     </task>
     <servers />
   </component>
@@ -94,7 +98,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
